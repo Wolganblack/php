@@ -16,4 +16,3 @@
                 {
                     echo "EL numero que usted pidio es difirente de lo estipulado";
                 }
-?>
