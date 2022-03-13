@@ -5,7 +5,6 @@
     for($i=$numero;$i>1;$i--)
 
 {
-
       $fact=$fact*$i;
 
 }
