@@ -12,7 +12,7 @@
     <?php
     $servidor ='127.0.0.1';
     $username = 'root';
-    $password = 'LINUX1983';
+    $password = '';
     $database = 'sabatino';
     $port = 3306;
 
